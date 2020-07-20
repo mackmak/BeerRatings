@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vintri", "Vintri.csproj", "{AB80D683-E60A-4EA4-B66A-6F8C005A06CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VintriTests", "..\VintriTests\VintriTests.csproj", "{7672A51B-93C0-4C13-BC02-E628E4346F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB80D683-E60A-4EA4-B66A-6F8C005A06CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB80D683-E60A-4EA4-B66A-6F8C005A06CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB80D683-E60A-4EA4-B66A-6F8C005A06CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB80D683-E60A-4EA4-B66A-6F8C005A06CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7672A51B-93C0-4C13-BC02-E628E4346F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7672A51B-93C0-4C13-BC02-E628E4346F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7672A51B-93C0-4C13-BC02-E628E4346F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7672A51B-93C0-4C13-BC02-E628E4346F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5F22CD-6870-472F-9577-4B7C09F19A71}
+	EndGlobalSection
+EndGlobal
